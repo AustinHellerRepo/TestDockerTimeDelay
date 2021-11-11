@@ -4,4 +4,4 @@ COPY . .
 
 #CMD ["python", "start.py"]
 #CMD ["tail", "-f", "/dev/null"]
-CMD [":"]
+CMD ["true"]
